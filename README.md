@@ -58,6 +58,6 @@ This project is open source and available under the MIT License.
 ## Contact
 
 For any questions or suggestions, please reach out to:
-- Email: mugdhaarun.sathe@sjsu.edu
+- Email: mugdhaarun.sathe@sjsu.edu or sathemugdha25@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dktemugdhasathe
 - GitHub: https://github.com/sathemugdha
